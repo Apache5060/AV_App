@@ -1,9 +1,9 @@
-azure-functions
+azure.functions
 Flask
 streamlit
 moviepy
 beautifulsoup4
-google-generativeai
+google.generativeai
 numpy
 requests
-langchain-google-genai
+langchain_google_genai
