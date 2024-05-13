@@ -1,0 +1,8 @@
+*.pyc
+*.tmp
+*.temp
+local.settings.json
+.env
+.venv
+__pycache__/
+node_modules/
